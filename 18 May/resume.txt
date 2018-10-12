@@ -1,0 +1,23 @@
+Proficient in Python’s
+itertools, collections modules
+object-oriented programming(__localReference, @property.setter)
+clear understanding of python’s scope resolution (Late Binding Closures)
+custom context manager and decorator
+
+
+agile, lean startup methodologies,
+Linux terminal operations(sed,awk,grep,find)
+Postgresql ,PSequel,sqlite3 database operations
+currently using unittest, pytest for testing.
+
+##csv,json,beautifulsoup,re
+
+
+
+I currently don't have any professional experience for programming , willing to start from internship.
+
+
+summary :
+self-taught Python3 programer, believe in ‘The Zen of Python’,
+dedicated to write efficient Python code.
+willing to learn new skills for the job.
